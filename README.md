@@ -8,7 +8,7 @@ I'm a Full Stack Software Engineer with over eight years of experience in buildi
 
 * 🌍  I'm based in McAllen, TX
 * 🖥️  See my portfolio at [antoniogarza.dev](http://antoniogarza.dev)
-* ✉️  You can contact me at [antoniogarza@email.com](mailto:antoniogarza@email.com)
+* ✉️  You can contact me at [antoniogarza@email.com](mailto:hello@antoniogarza.dev)
 * 🚀  I'm currently working on [Chaione Inc](http://chaione.com)
 * 🧠  I'm learning Rust
 * ⚡  I’m also passionate about contributing to projects that make a positive impact, particularly those focused on combating climate change. If you're working on something in this space, I'd love to get involved and help out!
