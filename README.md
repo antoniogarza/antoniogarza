@@ -91,7 +91,7 @@ Live: https://stocktraders.io
 
   <!-- Cross-platform -->
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/electron-colored.svg" width="36" height="36" alt="Electron" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/electron.svg" width="36" height="36" alt="Electron" />
   </a>
 
   <!-- DevOps / Tooling -->
