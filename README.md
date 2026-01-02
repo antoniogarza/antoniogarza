@@ -33,7 +33,7 @@ I’ve led teams through **complex, cross-functional projects** (UX, data, produ
 - Designed resilient local data patterns and sync-friendly workflows for real-world operations
 - Integrated complex business needs (roles, permissions, auditing, operational reporting)
 **Stack:** TypeScript/Node, React, SQL, **Electron**  
-Live: **[link to IntegroPOS production site/app store]**
+Live: **[https://integropos.com]**
 
 ### StockTraders.io — Investing experience for non-investors (in progress)
 - Building a simple, friendly product for long-term investing (ETFs/stocks) and education
