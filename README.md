@@ -1,43 +1,78 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Antonio Garza
-=====================================================================================================================================
+# Antonio Garza — Lead / Senior Full-Stack Engineer
 
-Lead Software Engineer
-----------------------
+I build and ship **production web/mobile systems** with a focus on **TypeScript/Node + React**, clean architecture, and reliable delivery.  
+I’ve led teams through **complex, cross-functional projects** (UX, data, product) and I’m strongest at turning messy requirements into **shippable software**.
 
-I'm a Full Stack Software Engineer with over eight years of experience in building and leading engineering teams through complex projects. My technical journey has been deeply rooted in JavaScript, Python, and PHP, and I’ve mastered frameworks like React and React Native for front-end development. I also work with Electron and Flutter to create cross-platform desktop solutions, giving me the flexibility to build across diverse platforms. I specialize in integrating user-facing features with solid server-side logic, ensuring that functionality and user experience go hand in hand. On the database side, I’m proficient with both SQL and NoSQL, handling complex data structures to deliver scalable and efficient solutions. What drives me is the opportunity to collaborate and innovate. I've worked closely with teams across Behavioral Science, UX Design, Data Science, and Project Management to bring ideas to life. I'm always up for a challenge and love learning new things that push the boundaries of what we can achieve with technology. Thanks for visiting my profile—feel free to check out my projects or reach out!
+**Quick hits**
+- 8+ years building full-stack apps (React/React Native, Node, SQL/NoSQL)
+- Cross-platform experience with **Electron** and **Flutter**
+- Comfortable in enterprise / security-conscious environments (least-privilege, auditability, private-cloud constraints)
+- Interested in climate/energy-impact work
 
-* 🌍  I'm based in McAllen, TX
-* 🖥️  See my portfolio at [antoniogarza.dev](http://antoniogarza.dev)
-* ✉️  You can contact me at [hello@antoniogarza.dev](mailto:hello@antoniogarza.dev)
-* 🚀  I'm currently working on [Chaione Inc](http://chaione.com)
-* 🧠  I'm learning Rust
-* ⚡  I’m also passionate about contributing to projects that make a positive impact, particularly those focused on combating climate change. If you're working on something in this space, I'd love to get involved and help out!
+📍 McAllen, TX · 🌐 [antoniogarza.dev](https://antoniogarza.dev) · ✉️ [hello@antoniogarza.dev](mailto:hello@antoniogarza.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/antoniogarza) · 🐙 [GitHub](https://github.com/antoniogarza)
 
-### Skills
+---
 
+## Professional experience (high-level)
 
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+**Chaione — Lead Software Engineer**
+- Led end-to-end delivery for enterprise client projects: discovery → architecture → implementation → release
+- Built full-stack systems with **TypeScript/Node + React**, integrating complex workflows and third-party services
+- Partnered closely with UX, data, and product teams; drove alignment and execution under tight timelines
+- Focused on quality and reliability: testing strategy, observability, performance tuning, and secure-by-default practices
+- Mentored engineers and improved delivery standards through code reviews, patterns, and documentation
 
+> Note: Work samples from client projects are often proprietary, so my public repos focus on personal and open projects.
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/antoniogarza" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/antoniogarza" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## Featured work
 
-### Badges
+> Replace the placeholders below with your real links.  
+> Keep this section to **2–3 projects max** so it stays skimmable.
 
-<b>My GitHub Stats</b>
+### StockTraders.io — Simple investing experience for non-investors
+- Built **[core feature]** and **[core feature]** end-to-end (UI → API → persistence)
+- Focused on **[performance/reliability/security]**, improving **[metric or result]**
+**Stack:** Next.js, TypeScript, Node.js, [Postgres/Mongo], [Cloud]  
+Repo: [link] · Demo: [link]
 
-<a href="https://github.com/antoniogarza">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniogarza&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
+### IntegroPOS (Flutter) — Offline-first POS sync prototype
+- Designed a **local-first** SQLite model and sync flows for multi-device environments
+- Implemented **[batching/conflict handling/retry logic]** for resilience
+**Stack:** Flutter, SQLite, [API layer], [networking]  
+Repo: [link] · Notes: [link]
 
-<a href="https://github.com/antoniogarza">
-  <img src="https://streak-stats.demolab.com?user=antoniogarza&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+### (Optional) API / Backend Template — Production-ready TypeScript service starter
+- Opinionated setup: auth, logging, validation, error handling, testing
+- Designed for fast iteration and predictable deployments
+**Stack:** Node.js, TypeScript, Express/Fastify, SQL, Docker  
+Repo: [link]
 
-<a href="https://github.com/antoniogarza">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antoniogarza&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
-</a>
+---
 
+## Tech I use
+
+**Core**
+- TypeScript, JavaScript, Node.js, React, SQL
+
+**Also**
+- Next.js, React Native, Flutter, Electron
+- Postgres/MySQL, MongoDB
+- Docker, Git, Cloud (AWS / GCP / Azure — whichever you’ve actually shipped with)
+
+**Learning**
+- Rust
+
+---
+
+## What I’m focused on right now
+- Building public projects that reflect my day-to-day engineering work
+- Improving system design + reliability (testing, observability, clean boundaries)
+- Exploring Rust for performance-oriented tooling
+
+---
+
+## Contact
+If you’re hiring for **Lead/Senior Full-Stack** roles (TypeScript/Node/React) or building something in **energy/climate impact**, reach me at:  
+✉️ **hello@antoniogarza.dev**
